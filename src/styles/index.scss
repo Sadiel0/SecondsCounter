@@ -1,13 +1,10 @@
 @import "~bootstrap/scss/bootstrap.scss";
-
-/* 
-
-    You can write your own styles here...
+.rectangle{
+    display: flex;
+    justify-content: center;
+}
+.digit {
+    width: 30px;
+    height: 50px;
     
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+}
